@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: network-watcher
-platforms: java
-author: yaohaizh
+extensions:
+- services: network-watcher
+- platforms: java
 ---
 
-## Getting Started with Network - Manage Network Watcher - in Java ##
+# Getting Started with Network - Manage Network Watcher - in Java #
 
 
   Azure Network sample for managing network watcher.
