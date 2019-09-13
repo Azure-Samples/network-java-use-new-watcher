@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: network-watcher
-- platforms: java
+description: "Getting Started with Network - Manage Network Watcher - in Java"
+urlFragment: network-java-use-new-watcher
 ---
 
 # Getting Started with Network - Manage Network Watcher - in Java #
